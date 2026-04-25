@@ -1,7 +1,7 @@
 # 📋 Media Playlist Source
 
 ![OBS](https://img.shields.io/badge/OBS-Plugin-black.svg)
-[![License: GPL2](https://img.shields.io/badge/License-GPL2-green.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Arch_Linux-blue.svg)](#)
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)](#)
 [![OBS](https://img.shields.io/badge/OBS-Plugin-black.svg)](https://obsproject.com)
