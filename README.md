@@ -10,7 +10,6 @@ Je maintiens ces plugins parce que :
 **Plugins disponibles :**
 - Media Playlist Source (lecture de playlists vidéo/musique)
 - OBS Countdown (timer avancé)
-- Move Transition (transitions fluides)
 - ...
 
 Tout est open source, libre d'utilisation et compilé depuis les sources officielles.
